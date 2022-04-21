@@ -1,0 +1,38 @@
+[
+	{
+		name: "hello",
+		dstPath: "/article_1",
+		srcPath: "/article_1",
+		imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Homs_syria3.JPG",
+	},
+	{
+		name: "hello",
+		dstPath: "/article_1",
+		srcPath: "/article_1",
+		imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Homs_syria3.JPG",
+	},
+	{
+		name: "hello",
+		dstPath: "#",
+		srcPath: "#",
+		imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Homs_syria3.JPG",
+	},
+	{
+		name: "hello",
+		dstPath: "/article_1",
+		srcPath: "/article_1",
+		imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Homs_syria3.JPG",
+	},
+	{
+		name: "hello",
+		dstPath: "/article_1",
+		srcPath: "/article_1",
+		imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Homs_syria3.JPG",
+	},
+	{
+		name: "hello",
+		dstPath: "#",
+		srcPath: "#",
+		imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Homs_syria3.JPG",
+	}
+]
